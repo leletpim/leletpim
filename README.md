@@ -3,7 +3,7 @@ Estudante de Ciência da Computação na Universidade de Brasília, interessada 
 
 ## 🧩 Projetos em destaque
 - [Jogo em C](https://github.com/leletpim/jogo-letris-c)
-- [Sistema de RH](https://github.com/DaturaSol/TP_Trabalho) - contribuição nos reuisitos de candidatura
+- [Sistema de RH](https://github.com/DaturaSol/TP_Trabalho) - contribuição nos requisitos de candidatura
 
 ## 🛠️ Habilidades
 Java • Python • C
